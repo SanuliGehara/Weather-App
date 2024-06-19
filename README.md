@@ -2,7 +2,7 @@
 
 This is a simple weather application built using HTML, CSS, and JavaScript. It fetches and displays the current weather conditions and the 24-hour weather forecast for a specified city using the OpenWeatherMap API.
 
-## Features :sparkles: 
+## Features 
 
 - Fetches and displays current weather conditions including temperature and weather description.
 - Shows an icon representing the current weather condition.
@@ -29,10 +29,6 @@ https://private-user-images.githubusercontent.com/154311325/337948023-a4dd4388-9
 
 To get a local copy up and running, follow these simple steps. 
 
-### Prerequisites :white_check_mark:
-
-You will need a web browser and a text editor to view and edit the files.
-
 ### Follow these steps :point_down::point_down::point_down:
 
 1. :dancers: Clone the repo to your local machine
@@ -43,13 +39,6 @@ You will need a web browser and a text editor to view and edit the files.
 6. :clipboard: Copy that key to clipboard
 7. :open_file_folder: Insert that key into the required variable in the index.js file
 8. :tada: Enjoy!
-
-## Usage :memo:
-
-1. Enter the name of the city for which you want to check the weather in the input field.
-2. Click the "Search" button to fetch and display the weather information.
-3. The app will show the current temperature, weather description, and an icon representing the weather condition.
-4. Scroll down to view the 24-hour forecast, which displays the temperature and weather condition for each hour.
 
 ## Acknowledgements
 
